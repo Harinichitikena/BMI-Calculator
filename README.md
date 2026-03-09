@@ -55,5 +55,3 @@ BMI Result: 22.5 (Normal Weight)
 
 This project was developed to practice basic web development and JavaScript logic, while also demonstrating how simple applications can help users monitor their health metrics.
 
-🔗 Live Demo
-You can view the live project here: https://github.com/Harinichitikena/BMI-Calculator.git
