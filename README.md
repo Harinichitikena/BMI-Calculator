@@ -3,21 +3,26 @@ A simple Body Mass Index (BMI) Calculator built using HTML, CSS, and JavaScript.
 
 📌 Project Overview
 
-The BMI Calculator is a lightweight web application that calculates a user's Body Mass Index (BMI) and displays the corresponding health category such as Underweight, Normal weight, Overweight, or Obese.
+➤ The BMI Calculator is a lightweight web application that calculates a user's **Body Mass Index (BMI)** and displays the corresponding health category such as **Underweight, Normal weight, Overweight, or Obese**.
 
-This project demonstrates basic frontend development skills, including form handling, user input validation, and dynamic result display using JavaScript.
+➤ This project demonstrates basic **frontend development skills**, including form handling, user input validation, and dynamic result display using **JavaScript**.
 
-🚀 Features
+---
 
-User-friendly interface
+## 🚀 Features
 
-Input fields for height and weight
+➤ User-friendly interface  
+➤ Input fields for height and weight  
+➤ Instant BMI calculation  
+➤ Displays BMI value with health category  
+➤ Responsive design for better usability  
 
-Instant BMI calculation
+---
 
-Displays BMI value with health category
+## 🧮 BMI Formula
 
-Responsive design for better usability
+➤ BMI is calculated using the following formula:
+
 
 🧮 BMI Formula
 
@@ -26,32 +31,38 @@ BMI is calculated using the following formula:
 BMI=Weight(kg)/(Height (m) * Height (m))​
 	​
 
-📂 Technologies Used
 
-HTML – Structure of the web page
+---
 
-CSS – Styling and layout
+## 📂 Technologies Used
 
-JavaScript – BMI calculation and result display
+➤ **HTML** – Structure of the web page  
+➤ **CSS** – Styling and layout  
+➤ **JavaScript** – BMI calculation and result display  
 
-📸 How It Works
+---
 
-Enter your height in centimeters.
+## 📸 How It Works
 
-Enter your weight in kilograms.
+➤ Enter your **height in centimeters**.  
+➤ Enter your **weight in kilograms**.  
+➤ Click the **Calculate BMI** button.  
+➤ The application will display your **BMI value and health category**.
 
-Click the Calculate BMI button.
+---
 
-The application will display your BMI value and health category.
+## 💡 Example
 
-💡 Example
+➤ Height: **170 cm**  
+➤ Weight: **65 kg**  
 
-Height: 170 cm
-Weight: 65 kg
+➤ BMI Result: **22.5 (Normal Weight)**  
 
-BMI Result: 22.5 (Normal Weight)
+---
 
-🎯 Purpose of the Project
+## 🎯 Purpose of the Project
 
-This project was developed to practice basic web development and JavaScript logic, while also demonstrating how simple applications can help users monitor their health metrics.
+➤ This project was developed to practice **basic web development and JavaScript logic**.
+
+➤ It also demonstrates how simple applications can help users **monitor and understand their health metrics**.
 
