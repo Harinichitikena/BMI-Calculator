@@ -23,11 +23,6 @@ A simple Body Mass Index (BMI) Calculator built using HTML, CSS, and JavaScript.
 
 ➤ BMI is calculated using the following formula:
 
-
-🧮 BMI Formula
-
-BMI is calculated using the following formula:
-
 BMI=Weight(kg)/(Height (m) * Height (m))​
 	​
 
