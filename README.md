@@ -23,7 +23,7 @@ Responsive design for better usability
 
 BMI is calculated using the following formula:
 
-BMI=Height(m)2Weight(kg)​
+BMI=Weight(kg)/(Height (m) * Height (m))​
 	​
 
 📂 Technologies Used
